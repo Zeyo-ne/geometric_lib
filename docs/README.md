@@ -57,7 +57,7 @@
 - Square: P = 4a
 ### History of commits
 ## Fixed files
-`Circle.py`, `Rectangle.py`, `Square.py`
+`circle.py`, `rectangle.py`, `square.py`, `README.md`, `run_tests.py`,  `test_circle.py`, `test_rectangle.py`, `test_square.py`, `__init__.py`,  
 # Comments
 Добавлены комментарии к
 - rectangle.py
@@ -68,7 +68,7 @@
 Изменена структура проекта(строение папок и расположение файлов)
 # Comments
 `125e5b7`, `337afa5`  
-Перенесены файлы фигур (`Circle.py`, `Rectangle.py`, `Square.py`) в отдельную папку `figures/`  
+Перенесены файлы фигур (`circle.py`, `rectangle.py`, `square.py`) в отдельную папку `figures/`  
 - Добавлена папка `tests/`  
 - Добавлен файл `run_tests.py` для удобного запуска тестов  
 - Проект получил более чёткую структуру и стал легче расширяемым
